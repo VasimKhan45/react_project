@@ -1,0 +1,11 @@
+.ql-toolbar.ql-snow + .ql-container.ql-snow {
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+    border-top: 1px solid #ccc;
+}
+
+.ql-toolbar.ql-snow{
+    display: flex;
+    justify-content: center;
+}
